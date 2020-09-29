@@ -4,11 +4,11 @@ This is an awesome javaScript program that has cool functions.
 
 ## helloWorld()
 
-spits out the text 'Hello, World" to the console.
+The helloWorld() function spits out the text 'Hello, World" to the console.
 
 ## helloName(name)
 
-takes a var and then it says "Hello, Ann" if name is "Ann".
+The helloName() function takes the variable name, and spits out "Hello, Ann".
 
 ## Instrcutions
 
